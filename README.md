@@ -1,6 +1,5 @@
-### Hi there 👋
-### My name is David Ramirez and I am a third-year computer science student at California State University, Long Beach
-
+My name is David Ramirez and I am a third-year computer science student at California State University, Long Beach
+- 🌱 I’m currently learning Machine Learning, Operating Systems, Cybersecurity
 <!--
 **davidramirez116/davidramirez116** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
